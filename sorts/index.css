@@ -1,0 +1,12 @@
+#code-container {
+    font-family: monospace;
+    white-space: pre;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+select, button {
+    margin: 10px;
+}
